@@ -4,3 +4,4 @@ projetos/*/renders/
 saida/*/
 brutos/*
 !brutos/.gitkeep
+!projetos/*/assets/.gitkeep
